@@ -1,0 +1,238 @@
+{
+  "type": "daily_report",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T14:20:04.588794",
+  "rankings": {
+    "overall": [
+      {
+        "rank": 1,
+        "id": 6,
+        "title": "ChatGPT 新手完全上手指南",
+        "tool_name": "ChatGPT",
+        "url": "https://zhuanlan.zhihu.com/p/example1",
+        "source": "知乎",
+        "tool_type": null,
+        "summary": "ChatGPT 是目前最火的 AI 工具，许多人都听过但不知道怎么用。本文从账号注册、基础操作、实用技巧等方面详细讲解...",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 2,
+        "id": 7,
+        "title": "AI 绘画工具 Midjourney 使用教程",
+        "tool_name": "Midjourney",
+        "url": "https://zhuanlan.zhihu.com/p/example2",
+        "source": "知乎",
+        "tool_type": null,
+        "summary": "Midjourney 是一款革命性的 AI 绘画工具。本文介绍如何通过 Discord 使用 Midjourney...",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 3,
+        "id": 8,
+        "title": "文心一言和 ChatGPT 对比测评",
+        "tool_name": "文心一言",
+        "url": "https://zhuanlan.zhihu.com/p/example4",
+        "source": "知乎",
+        "tool_type": null,
+        "summary": "百度推出的文心一言在中文处理上有优势。本文详细对比文心一言和 ChatGPT...",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 4,
+        "id": 9,
+        "title": "Copilot 在代码编写中的应用",
+        "tool_name": "Copilot",
+        "url": "https://blog.csdn.net/example2",
+        "source": "CSDN",
+        "tool_type": null,
+        "summary": "GitHub Copilot 是微软推出的 AI 编程助手，如何在 VS Code 中配置使用？",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 5,
+        "id": 10,
+        "title": "豆包 - 字节跳动的 AI 助手",
+        "tool_name": "豆包",
+        "url": "https://www.jianshu.com/p/example3",
+        "source": "简书",
+        "tool_type": null,
+        "summary": "豆包是字节跳动推出的新一代 AI 助手。不知道怎么用？看这篇就够了...",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 6,
+        "id": 11,
+        "title": "Llama 3 - Meta 推出的最新开源大模型",
+        "tool_name": "Llama 3",
+        "url": "https://huggingface.co/meta-llama/Llama-2-70b",
+        "source": "HuggingFace",
+        "tool_type": null,
+        "summary": "Meta 最新推出的 Llama 3 模型，参数量 70B，在多个基准测试上取得 SOTA 成绩。支持多语言，可自部署。",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 7,
+        "id": 12,
+        "title": "LangChain - LLM 应用开发框架",
+        "tool_name": "LangChain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "source": "GitHub",
+        "tool_type": null,
+        "summary": "LangChain 是最流行的 LLM 应用框架，提供链式调用、Agent、RAG 等功能。支持 Python 和 JS。",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 8,
+        "id": 13,
+        "title": "LlamaIndex - 向量数据库索引框架",
+        "tool_name": "LlamaIndex",
+        "url": "https://github.com/jerryjliu/llama_index",
+        "source": "GitHub",
+        "tool_type": null,
+        "summary": "LlamaIndex 是构建 RAG 应用的核心框架，支持多种向量数据库和 LLM。性能优异。",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 9,
+        "id": 14,
+        "title": "AutoGPT - 自主 AI Agent 框架",
+        "tool_name": "AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "source": "GitHub",
+        "tool_type": null,
+        "summary": "AutoGPT 是开源 Agent 框架，可自主完成任务。支持插件扩展和多种工具集成。",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      },
+      {
+        "rank": 10,
+        "id": 15,
+        "title": "Mistral-7B - 超高效的 7B 模型",
+        "tool_name": "Mistral",
+        "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1",
+        "source": "HuggingFace",
+        "tool_type": null,
+        "summary": "仅 7B 参数的 Mistral 模型性能超越许多大模型。推理速度快，适合边缘部署。开源可自部署。",
+        "score": 0.0,
+        "search_count": 0,
+        "recommend_level": null
+      }
+    ],
+    "by_score": [],
+    "by_category": [
+      {
+        "category": "未分类",
+        "rank": 1,
+        "id": 6,
+        "title": "ChatGPT 新手完全上手指南",
+        "tool_name": "ChatGPT",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 2,
+        "id": 7,
+        "title": "AI 绘画工具 Midjourney 使用教程",
+        "tool_name": "Midjourney",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 3,
+        "id": 8,
+        "title": "文心一言和 ChatGPT 对比测评",
+        "tool_name": "文心一言",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 4,
+        "id": 9,
+        "title": "Copilot 在代码编写中的应用",
+        "tool_name": "Copilot",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 5,
+        "id": 10,
+        "title": "豆包 - 字节跳动的 AI 助手",
+        "tool_name": "豆包",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 6,
+        "id": 11,
+        "title": "Llama 3 - Meta 推出的最新开源大模型",
+        "tool_name": "Llama 3",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 7,
+        "id": 12,
+        "title": "LangChain - LLM 应用开发框架",
+        "tool_name": "LangChain",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 8,
+        "id": 13,
+        "title": "LlamaIndex - 向量数据库索引框架",
+        "tool_name": "LlamaIndex",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 9,
+        "id": 14,
+        "title": "AutoGPT - 自主 AI Agent 框架",
+        "tool_name": "AutoGPT",
+        "score": 0.0,
+        "search_count": 0
+      },
+      {
+        "category": "未分类",
+        "rank": 10,
+        "id": 15,
+        "title": "Mistral-7B - 超高效的 7B 模型",
+        "tool_name": "Mistral",
+        "score": 0.0,
+        "search_count": 0
+      }
+    ]
+  },
+  "summary": {
+    "total_tools": 10,
+    "total_searches": 0,
+    "total_categories": 0,
+    "average_score": 0
+  }
+}
